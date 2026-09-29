@@ -1,0 +1,6 @@
+{
+  "name": "Wave Physics Lab & QR Portal",
+  "description": "Interactive wave physics simulations, visual comparisons, formula calculator, QR code sharing, and comprehensive practice question bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
